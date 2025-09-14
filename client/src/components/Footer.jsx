@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 export default function Footer() {
 	const currentYear = new Date().getFullYear()
-	
+
 	return (
 		<footer className="footer">
 			<div className="footer-container">
@@ -14,7 +14,7 @@ export default function Footer() {
 							<p>Your trusted platform for store reviews and ratings. Discover the best stores in your area and share your experiences.</p>
 						</div>
 					</div>
-					
+
 					{/* Quick Links */}
 					<div className="footer-section">
 						<h4>Quick Links</h4>
@@ -25,7 +25,7 @@ export default function Footer() {
 							<li><Link to="/signup">Sign Up</Link></li>
 						</ul>
 					</div>
-					
+
 					{/* Features */}
 					<div className="footer-section">
 						<h4>Features</h4>
@@ -36,18 +36,18 @@ export default function Footer() {
 							<li>Admin Dashboard</li>
 						</ul>
 					</div>
-					
+
 					{/* Contact Info */}
 					<div className="footer-section">
 						<h4>Contact</h4>
 						<div className="footer-contact">
-							<p>📧 support@storeratings.com</p>
-							<p>📞 +1 (555) 123-4567</p>
-							<p>📍 123 Business St, City, State 12345</p>
+							<p>📧 chetanm.ravall@gmail.com</p>
+							<p>📞 +91 8928212317</p>
+							<p>📍 Mumbai, Maharashtra</p>
 						</div>
 					</div>
 				</div>
-				
+
 				{/* Footer Bottom */}
 				<div className="footer-bottom">
 					<div className="footer-bottom-content">
