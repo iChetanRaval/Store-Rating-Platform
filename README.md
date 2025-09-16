@@ -369,20 +369,39 @@ Open your browser and navigate to `http://localhost:5173`
 ### Login/Signup
 - Centered forms with real-time validation
 - Beautiful UI with smooth animations
+<img width="1919" height="869" alt="RegistrationPage" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/RegistrationPage.png" />
+<img width="1918" height="868" alt="LoginPage" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/LoginPage.png" />
+
+
 
 ### Admin Dashboard
 - Comprehensive statistics overview
+<img width="1918" height="869" alt="AdminPage" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/AdminPage.png" />
+
 - User and store management tables
+<img width="1918" height="868" alt="AdminPage2" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/AdminPage2.png" />
+
 - Add user/store forms with validation
+<img width="1919" height="869" alt="AdminPage3" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/AdminPage3.png" />
+
 
 ### Store Listing
 - Search and filter functionality
+<img width="1917" height="869" alt="UserSearchFilterStores" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/UserSearchFilterStores.png" />
+
 - Rating submission interface
+<img width="1919" height="870" alt="UserRatingStores" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/UserRatingStores.png" />
+
 - Responsive grid layout
+<img width="1917" height="868" alt="UserUpdateProfile" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/UserUpdateProfile.png" />
+
+
 
 ### Store Owner Dashboard
 - Store analytics and customer feedback
 - Rating insights and trends
+<img width="1919" height="869" alt="OwnerPage" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/OwnerPage.png" />
+
 
 ## 🛠️ Development
 
