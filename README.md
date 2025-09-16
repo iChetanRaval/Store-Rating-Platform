@@ -363,6 +363,8 @@ Open your browser and navigate to `http://localhost:5173`
 ### Home Page
 - Modern landing page with role-based navigation
 - Responsive design with dark theme
+<img width="1918" height="869" alt="HomePage" src="https://github.com/iChetanRaval/Store-Rating-Platform/blob/main/screenshots/UserUpdateProfile.png" />
+
 
 ### Login/Signup
 - Centered forms with real-time validation
