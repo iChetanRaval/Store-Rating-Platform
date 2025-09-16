@@ -19,7 +19,6 @@ A full-stack web application for rating stores with role-based authentication an
 - [Screenshots](#-screenshots)
 - [Development](#-development)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
@@ -427,9 +426,6 @@ npm run lint       # Run ESLint
 - Update documentation as needed
 - Ensure all validations work correctly
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Troubleshooting
 
